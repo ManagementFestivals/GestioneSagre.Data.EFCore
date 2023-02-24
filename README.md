@@ -1,1 +1,1 @@
-# GestioneSagre.Data.EFCore
+# Gestione Sagre Data EFCore

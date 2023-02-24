@@ -1,0 +1,1 @@
+# GestioneSagre.Data.EFCore
